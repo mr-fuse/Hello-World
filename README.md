@@ -9,5 +9,8 @@ When i'm starting on __github__
 
     git commit -m 'first commit'
 
+    git remote add origin https://github.com/mr-fuse/Hello-World.git
+   
+    git push origin master
 
 
